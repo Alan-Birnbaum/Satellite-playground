@@ -1,1 +1,1 @@
-## A place for me to test programming using global satellite imagery
+## A place for me to upload programs built around Satellite imagery (also may include other things if relevant).
